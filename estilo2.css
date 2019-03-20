@@ -1,0 +1,25 @@
+#cabecalho img{
+	width:1300px;
+}
+
+#corpo1 {
+	font-size:20px;
+	float:left;
+	font-family:Arial;
+}
+
+#corpo2{
+	float:left;
+}
+
+#corpo2 figcaption{
+	font-family:Arial;
+}
+	#corpo3{
+		float:left;
+	}
+	
+	#corpo4{
+		float:left;
+	}
+	
